@@ -5,7 +5,7 @@ It's important to note that this is an example of creating a Class (both in C++ 
 methods for just creating functions are a little different.
 
 ## Installation
-Install from directory containg CMakeLists.txt using cmake (on a *nix system):
+Install from the directory containing CMakeLists.txt using cmake:
 - `cmake -DPYTHON_EXECUTABLE=$(which python3) . && make && make install`
 
 **An important note :**
